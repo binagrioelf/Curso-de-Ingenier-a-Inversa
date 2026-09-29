@@ -5,3 +5,4 @@ Contenido
 * 1.1 Función vacía -
 * 1.2 Hola Mundo -
 * 1.3 Variables Locales -
+* 1.4 Variables Globales -
